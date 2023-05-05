@@ -3,5 +3,5 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Fly0w&theme=radical&show_icons=ture" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Fly0w&theme=radical&column=7
-)](https://github.com/ryo-ma&rank=-C,-B/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Fly0w&theme=radical&column=7&rank=-C,-B
+)](https://github.com/ryo-ma/github-profile-trophy)
