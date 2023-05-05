@@ -4,4 +4,4 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Fly0w&theme=radical&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
+)](https://github.com/ryo-ma&rank=-C,-B/github-profile-trophy)
